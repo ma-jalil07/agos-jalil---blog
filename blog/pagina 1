@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Blog - Página 1</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px 40px;
+            background: #f4f4f4;
+        }
+        header {
+            margin-bottom: 20px;
+        }
+        a {
+            text-decoration: none;
+            color: #007acc;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Mi Blog – Tema: Tecnología</h1>
+        <p><a href="pagina2.html">Ir a la Página 2</a> | <a href="../index.html">Volver al Inicio</a></p>
+    </header>
+
+    <h2>Artículo 1: La evolución de la inteligencia artificial</h2>
+    <p>
+        La inteligencia artificial ha avanzado rápidamente en las últimas décadas. Pasó 
+        de simples algoritmos a redes neuronales capaces de aprender patrones complejos.
+    </p>
+
+</body>
+</html>
